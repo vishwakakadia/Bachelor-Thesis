@@ -1,4 +1,4 @@
-# Bachelor-Thesis
+# Bachelor-Internship Thesis
 <b>Project Name</b> : Money Manager
 
 <b>Company Name</b> : Lembark Solutions, Surat, India
